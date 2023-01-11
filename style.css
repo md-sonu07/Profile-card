@@ -159,4 +159,15 @@ span:hover{
 }
 
 
+@media (max-width: 511px )  {  
+    span{
+     display: none;
+    }
+ 
+    .card{
+     margin-bottom: 50px;
+    }
+    
+ }
+ 
 
