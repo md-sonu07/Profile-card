@@ -3,7 +3,7 @@
 Welcome to the **Profile Card** project! This is a simple and elegant digital business card designed using HTML and CSS, perfect for showcasing basic user information.
 
 ## 🔗 Live Demo
-👉 [View the Profile Card](https://danish-farhan07.github.io/Profile-card/)
+👉 [View the Profile Card](https://md-sonu07.github.io/Profile-card/)
 
 ## ✨ Features
 ✅ Displays user's **name** and **username**  
@@ -17,7 +17,7 @@ Welcome to the **Profile Card** project! This is a simple and elegant digital bu
 ## 🚀 How to Use
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/danish-farhan07/Profile-card.git
+   git clone https://github.com/md-sonu07/Profile-card.git
    ```
 2. **Open** `index.html` in a web browser and explore the profile card.
 
@@ -25,7 +25,7 @@ Welcome to the **Profile Card** project! This is a simple and elegant digital bu
 Want to personalize it? Modify the `index.html` and `style.css` files to tweak the design, colors, or details as needed.
 
 ## 👤 Author
-📌 Created by [**Danish Farhan**](https://github.com/danish-farhan07)  
+📌 Created by [**Danish Farhan**](https://github.com/md-sonu07)  
 💡 Feel free to contribute and improve this project!
 
 ## 📜 License
